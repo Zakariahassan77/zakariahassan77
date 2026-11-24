@@ -1,19 +1,23 @@
 
 <!-- ==================== HEADER ==================== -->
 
+
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1728,50:164E63,100:0284C7&height=220&section=header&text=ZAKARIA&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20AI%20Software%20%26%20Product%20Engineer&descSize=17&descAlignY=58" alt="Zakaria — Aspiring AI Software and Product Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1728,50:164E63,100:0284C7&height=200&section=header&text=ZAKARIA&fontSize=65&fontColor=FFFFFF&fontAlignY=40" alt="Zakaria"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=550&lines=Learn+deeply.;Think+critically.;Build+purposefully.;Engineering+ideas+into+solutions." alt="Learn deeply. Think critically. Build purposefully."/>
+# Aspiring AI Software & Product Engineer
 
-<br/>
+**Learn deeply. Think critically. Build purposefully.**
 
-**Software Engineering · Artificial Intelligence · Product Development**
+Software Engineering · Artificial Intelligence · Product Development
 
 </div>
 
 ---
+
+
 
 <!-- ==================== ABOUT ==================== -->
 
