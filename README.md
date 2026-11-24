@@ -1,21 +1,14 @@
-
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1728,50:164E63,100:0284C7&amp;height=240&amp;section=header&amp;text=ZAKARIA&amp;fontSize=65&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Aspiring%20AI%20Software%20and%20Product%20Engineer&amp;descSize=18&amp;descAlignY=58" alt="Zakaria — Aspiring AI Software and Product Engineer"/>
+<img width="100%" src="assets/banner.png" alt="Zakaria — Aspiring AI Software and Product Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=55&amp;lines=Learn+deeply.;Think+critically.;Build+purposefully.;Engineering+ideas+into+solutions." alt="Learn deeply. Think critically. Build purposefully. Engineering ideas into solutions."/>
+<img width="100%" src="assets/typing.gif" alt="Learn deeply. Think critically. Build purposefully. Engineering ideas into solutions. Software Engineering. Artificial Intelligence. Product Development." />
 
-<br/>
+<p><strong>Software Engineering · Artificial Intelligence · Product Development</strong></p>
 
-**Software Engineering · Artificial Intelligence · Product Development**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Software-Engineering-164E63?style=for-the-badge" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/Artificial-Intelligence-0369A1?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Product-Development-0284C7?style=for-the-badge" alt="Product Development"/>
+<img width="100%" src="assets/interests.png" alt="Software Engineering, Artificial Intelligence, Product Development" />
 
 </div>
 
@@ -45,15 +38,11 @@ I believe great engineering starts with understanding the problem, not just writ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github&amp;theme=dark" alt="HTML, CSS, Git, and GitHub"/>
+<img width="100%" src="assets/toolkit.png" alt="HTML, CSS, Git, and GitHub" />
 
-<br/>
+<p><strong>HTML5 · CSS · Git · GitHub</strong></p>
 
-**HTML5 · CSS · Git · GitHub**
-
-<br/>
-
-*My toolkit grows as my understanding grows.*
+<p><em>My toolkit grows as my understanding grows.</em></p>
 
 </div>
 
@@ -63,9 +52,11 @@ I believe great engineering starts with understanding the problem, not just writ
 
 ### StudyHub
 
+<img width="100%" src="assets/project.png" alt="StudyHub — a multi-page educational website, illustrated with a schematic web page" />
+
 A multi-page educational website focused on semantic structure, accessible forms, organized content, and practical web development fundamentals.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img width="80" src="assets/html5.png" alt="HTML5" />
 
 **Technology:** HTML5
 
@@ -83,12 +74,12 @@ A multi-page educational website focused on semantic structure, accessible forms
 
 | Learning Area | Status |
 |:---|:---|
-| Web Development | ![In Progress](https://img.shields.io/badge/In_Progress-0284C7?style=flat-square) |
-| Backend Engineering & Databases | ![Upcoming](https://img.shields.io/badge/Upcoming-164E63?style=flat-square) |
-| Computer Science & Python | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
-| AI & Intelligent Systems | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
-| Infrastructure, Security & Cloud | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
-| End-to-End Product Engineering | ![Long-Term Direction](https://img.shields.io/badge/Long--Term_Direction-164E63?style=flat-square) |
+| Web Development | <img width="150" src="assets/in-progress.png" alt="In Progress" /> |
+| Backend Engineering & Databases | <img width="150" src="assets/upcoming.png" alt="Upcoming" /> |
+| Computer Science & Python | <img width="150" src="assets/planned.png" alt="Planned" /> |
+| AI & Intelligent Systems | <img width="150" src="assets/planned.png" alt="Planned" /> |
+| Infrastructure, Security & Cloud | <img width="150" src="assets/planned.png" alt="Planned" /> |
+| End-to-End Product Engineering | <img width="150" src="assets/long-term.png" alt="Long-Term Direction" /> |
 
 <!-- ==================== MISSION ==================== -->
 
@@ -96,10 +87,11 @@ A multi-page educational website focused on semantic structure, accessible forms
 
 <div align="center">
 
-### 2026 — 2029
+<h3>2026 — 2029</h3>
 
-![Target](https://img.shields.io/badge/TARGET-2029-0284C7?style=for-the-badge)
-![Learning Goal](https://img.shields.io/badge/LEARNING_GOAL-1500%2B_HOURS-164E63?style=for-the-badge)
+<p><strong>1,500+ learning hours · Target: 2029</strong></p>
+
+<img width="100%" src="assets/mission.png" alt="Target: 2029. Learning goal: 1500+ hours." />
 
 </div>
 
@@ -126,10 +118,10 @@ Create real value.
 
 <div align="center">
 
-### Always learning. Always building.
+<h3>Always learning. Always building.</h3>
 
-*The ambition is not just to write code, but to become an engineer who can turn ideas into reality.*
+<p><em>The ambition is not just to write code, but to become an engineer who can turn ideas into reality.</em></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1728,50:164E63,100:0284C7&amp;height=100&amp;section=footer" alt=""/>
+<img width="100%" src="assets/footer.png" alt="" />
 
 </div>
