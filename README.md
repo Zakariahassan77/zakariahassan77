@@ -1,23 +1,25 @@
 
 <!-- ==================== HEADER ==================== -->
 
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1728,50:164E63,100:0284C7&height=200&section=header&text=ZAKARIA&fontSize=65&fontColor=FFFFFF&fontAlignY=40" alt="Zakaria"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1728,50:164E63,100:0284C7&amp;height=240&amp;section=header&amp;text=ZAKARIA&amp;fontSize=65&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Aspiring%20AI%20Software%20and%20Product%20Engineer&amp;descSize=18&amp;descAlignY=58" alt="Zakaria — Aspiring AI Software and Product Engineer"/>
 
-# Aspiring AI Software & Product Engineer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=55&amp;lines=Learn+deeply.;Think+critically.;Build+purposefully.;Engineering+ideas+into+solutions." alt="Learn deeply. Think critically. Build purposefully. Engineering ideas into solutions."/>
 
-**Learn deeply. Think critically. Build purposefully.**
+<br/>
 
-Software Engineering · Artificial Intelligence · Product Development
+**Software Engineering · Artificial Intelligence · Product Development**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software-Engineering-164E63?style=for-the-badge" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/Artificial-Intelligence-0369A1?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Product-Development-0284C7?style=for-the-badge" alt="Product Development"/>
 
 </div>
 
 ---
-
-
 
 <!-- ==================== ABOUT ==================== -->
 
@@ -43,7 +45,11 @@ I believe great engineering starts with understanding the problem, not just writ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github&theme=dark" alt="HTML, CSS, Git, and GitHub"/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github&amp;theme=dark" alt="HTML, CSS, Git, and GitHub"/>
+
+<br/>
+
+**HTML5 · CSS · Git · GitHub**
 
 <br/>
 
@@ -58,6 +64,8 @@ I believe great engineering starts with understanding the problem, not just writ
 ### StudyHub
 
 A multi-page educational website focused on semantic structure, accessible forms, organized content, and practical web development fundamentals.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Technology:** HTML5
 
@@ -75,12 +83,12 @@ A multi-page educational website focused on semantic structure, accessible forms
 
 | Learning Area | Status |
 |:---|:---|
-| Web Development | In Progress |
-| Backend Engineering & Databases | Upcoming |
-| Computer Science & Python | Planned |
-| AI & Intelligent Systems | Planned |
-| Infrastructure, Security & Cloud | Planned |
-| End-to-End Product Engineering | Long-Term Direction |
+| Web Development | ![In Progress](https://img.shields.io/badge/In_Progress-0284C7?style=flat-square) |
+| Backend Engineering & Databases | ![Upcoming](https://img.shields.io/badge/Upcoming-164E63?style=flat-square) |
+| Computer Science & Python | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
+| AI & Intelligent Systems | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
+| Infrastructure, Security & Cloud | ![Planned](https://img.shields.io/badge/Planned-334155?style=flat-square) |
+| End-to-End Product Engineering | ![Long-Term Direction](https://img.shields.io/badge/Long--Term_Direction-164E63?style=flat-square) |
 
 <!-- ==================== MISSION ==================== -->
 
@@ -122,6 +130,6 @@ Create real value.
 
 *The ambition is not just to write code, but to become an engineer who can turn ideas into reality.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1728,50:164E63,100:0284C7&height=100&section=footer" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1728,50:164E63,100:0284C7&amp;height=100&amp;section=footer" alt=""/>
 
 </div>
